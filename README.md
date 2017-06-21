@@ -11,8 +11,8 @@ Este projeto tem como dependências [Node](https://nodejs.org/en/download/packag
 ## Instalação
 
 ```
-git clone <URL A SER TROCADA>
-cd <PASTA COM O NOME DO PROJETO A SER TROCADA>
+git clone https://github.com/kauesanchez26/netshoes_cart.git
+cd netshoes_cart
 yarn install
 ```
 
