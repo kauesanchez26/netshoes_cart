@@ -1,0 +1,42 @@
+
+.box-product{
+  text-align: center;
+  padding:10px;
+}
+
+.box-product img{
+  width: 100%;
+}
+
+.description{
+  padding:10px 0;
+  font-size:14px;
+  min-height:58px;
+  width:100%;
+}
+
+p.price{
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 0;
+}
+
+.divisor_yellow{
+  background:#dfbd00;
+  width:20px;
+  height:3px;
+  margin: 5px auto;
+}
+
+.btn_add{
+  background: #5a2d82;
+  padding:8px;
+  color:#fff;
+  text-shadow:none;
+  border: 0;
+  cursor:pointer;
+}
+
+.center{
+  text-align: center;
+}

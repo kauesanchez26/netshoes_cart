@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
+.cart{
+  color:#fff;
+}
+
+.list{
+  background: #5a2d82;
+  color: #fff;
+  padding: 10px;
+  margin:0 10px 20px 10px;
+  text-align: center;
+}
+
+.list h1{
+  font-weight: normal;
+  margin:0;
+}
+
+.box-cart{
+  background:#202025;
+  position: absolute;
+  min-height: 100%;
+  top: 0;
+  right:0;
+}
+
+.text-l{
+  text-align: left;
+}
+
+.text-r{
+  text-align: right;
+}
+
+.valign-top{
+  vertical-align: top;
+}
+
+.padding_lr{
+  padding-left:0;
+  padding-right:0;
+}
+
+.pd0{
+  padding: 0;
+}
+
+.cart_img{
+  background: none;
+  border:0;
+  float: right;
+  cursor: pointer;
+}
+
+.cart_img:hover{
+  background: #7e4daa;
+}
+
+.cart_img img{
+  width:40px;
+}

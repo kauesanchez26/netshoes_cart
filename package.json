@@ -1,0 +1,24 @@
+{
+  "name": "netshoes_cart_test",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "accounting-js": "^1.1.1",
+    "babel-plugin-pipe-composition": "^0.1.1",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.5",
+    "recompose": "^0.23.5",
+    "redux": "^3.7.0",
+    "redux-persist": "^4.8.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
